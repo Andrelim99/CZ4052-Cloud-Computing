@@ -1,3 +1,5 @@
+In development of the Quiz Generator, https://www.youtube.com/watch?v=qeEc7jqFliU was referenced and its assets were used and modified.
+
 # Quiz Generator Demo
 
 
